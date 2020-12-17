@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(../Imagens/fundo.jpg);
+    background-repeat: repeat;
+}
+.menu-barra {
+    border: 5px solid orange;
+    background-color: peru;
+
+}
+.menu-barra li{
+    display: flex;
+    width: 30px
+    
+}
+.fundo{
+    
+}
+.mais-inportante{
+border: 5px solid orange;
+
+}
+.sabores{
+    border: 1px solid rgba(214, 194, 10, 0.986);
+    column-count:3;
+    background-color: white;
+}
+.melhores-da-região{
+background-color: white;
+ 
+}
+.pizza{
+    text-align: center;
+}
+.melhores-da-região img{
+    justify-content: center;
+ display:flex;
+}
+.uma-casa-com-historia{
+background-color: white;
+}
+.teto{
+    background: red;
+    color: white;
+    display:flex;
+    padding-bottom: 5%;
+}
+.teto p{
+    margin-left: 75%;
+    margin-top: 2%
+}
